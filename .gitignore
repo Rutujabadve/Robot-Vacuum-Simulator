@@ -1,0 +1,10 @@
+# Build directory and artifacts
+VacuumSim
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+*.o
+
+# macOS specific
+.DS_Store
