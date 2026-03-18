@@ -11,7 +11,11 @@ Watch the vacuum navigate around obstacles, hunt for dirt, manage its battery, a
 [Watch the Visualization Video]
 
 
-https://github.com/user-attachments/assets/2bf1afa1-b968-4a14-aeb7-5fd3bff63a24
+
+
+
+https://github.com/user-attachments/assets/808f1984-4967-46cc-b385-556d1f83d3e3
+
 
 
 ## 🧠 How it Works
