@@ -10,6 +10,10 @@ Watch the vacuum navigate around obstacles, hunt for dirt, manage its battery, a
 ## 🎥 Demo
 [Watch the Visualization Video]
 
+
+https://github.com/user-attachments/assets/2bf1afa1-b968-4a14-aeb7-5fd3bff63a24
+
+
 ## 🧠 How it Works
 
 The Robot Vacuum is powered by a **Finite State Machine** (FSM) representing its "brain", which ticks continually to sense its environment, decide on a goal, and act on it. 
